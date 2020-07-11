@@ -1,0 +1,21 @@
+body{
+  text-align :center;
+  }
+#judul{
+  font-size:30px;
+  }
+  #gambar{
+    border-radius: 50%;
+    width:200px;
+height:250px;
+  }
+  #benner{
+    background-color: grey;
+  }
+  #gambar2{
+        width:300px;
+height:200px;
+  }
+  #gambar3{
+        width:300px;
+height:200px;
